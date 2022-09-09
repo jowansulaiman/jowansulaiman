@@ -24,5 +24,5 @@
 <code><img height="20" src="https://github.com/JoWanT/JoWanT/blob/main/Prog/sql.png"></code>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jowansulaiman&layout=compact&langs_count=8&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jowansulaiman&layout=compact&langs_count=10&theme=radical)
 
