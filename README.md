@@ -26,5 +26,3 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jowansulaiman&layout=compact&langs_count=8&theme=radical)
 
-![JowanT's GitHub stats](https://github-readme-stats.vercel.app/api?username=jowansulaiman&theme=radical&show_icons=true)
-
